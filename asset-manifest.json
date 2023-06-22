@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/india-idf-cmip6/static/css/main.a426172c.css",
-    "main.js": "/india-idf-cmip6/static/js/main.179c7ba6.js",
+    "main.js": "/india-idf-cmip6/static/js/main.924cc30d.js",
     "static/js/787.3bc256d0.chunk.js": "/india-idf-cmip6/static/js/787.3bc256d0.chunk.js",
     "index.html": "/india-idf-cmip6/index.html",
     "main.a426172c.css.map": "/india-idf-cmip6/static/css/main.a426172c.css.map",
-    "main.179c7ba6.js.map": "/india-idf-cmip6/static/js/main.179c7ba6.js.map",
+    "main.924cc30d.js.map": "/india-idf-cmip6/static/js/main.924cc30d.js.map",
     "787.3bc256d0.chunk.js.map": "/india-idf-cmip6/static/js/787.3bc256d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a426172c.css",
-    "static/js/main.179c7ba6.js"
+    "static/js/main.924cc30d.js"
   ]
 }
